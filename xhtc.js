@@ -1,4 +1,4 @@
-const xhtc = require('./Storage/xhtc-config.json');
+const xhtc = require('./xhtc-config.json');
 const Discord = require('discord.js');
 const client = new Discord.Client({
     disableEveryone: true,
