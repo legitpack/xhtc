@@ -1,0 +1,13 @@
+{
+  "name": "xsguard",
+  "description": "xsguard",
+  "version": "1.0.0",
+  "main": "xhtc.js",
+  "scripts": {
+    "start": "node xhtc.js"
+  },
+  "dependencies": {
+    "discord.js": "11.3.2",
+    "request": "2.87.0"
+  }
+}
